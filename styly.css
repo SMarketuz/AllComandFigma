@@ -1,0 +1,322 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+    margin-top: 50px;
+
+
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
+.her {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: 20px;
+
+}
+
+.hes ul {
+    display: flex;
+    gap: 50px;
+
+    list-style: none;
+    font-style: none;
+
+}
+
+.hes ul li a {
+    font-style: none;
+    color: black;
+    text-decoration: none;
+
+}
+
+.her button {
+    color: #F58A07;
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid #f3d4ae;
+    background-color: #f3d4ae;
+}
+
+.go img {
+    width: 674px;
+    height: 650px;
+    top: 176px;
+    left: 984px;
+    border-radius: 0px, 0px, 20px, 0px;
+    border-radius: 15px;
+
+}
+
+.can {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    gap: 100px;
+}
+
+.can h1 {
+
+    font-size: 70px;
+
+}
+
+.can p {
+
+    font-size: 30px;
+
+
+}
+
+.can button {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    background-color: #F58A07;
+    border: 2px solid #F58A07;
+    margin-top: 50px;
+}
+
+.coul {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 150px;
+    margin-top: 150px;
+}
+
+.coul p {
+    max-width: 580px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.coul h1 {
+    font-size: 70px;
+}
+
+/* .coul img{
+    width: 620px;
+height: 550px;
+top: 954px;
+left: 321px;
+border-radius: 20px;
+margin-top: 150px;
+
+} */
+
+.get {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.get ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 5px;
+    color: black;
+}
+
+.het {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 150px;
+    gap: 100px;
+    margin-top: 150px;
+}
+
+.het p {
+    max-width: 650px;
+    font-size: 25px;
+}
+
+.het h1 {
+    font-size: 70px;
+}
+
+.awe {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.awe h1 {
+    font-size: 30px;
+}
+
+.awe p {
+    font-size: 20px;
+}
+
+.awe img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+
+.prins {
+    width: 100%;
+    height: 820px;
+    background-color: #DCEAF5;
+    margin-top: 150px;
+
+
+}
+
+.grout {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.ff {
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 80px;
+
+
+}
+
+
+.pis {
+    width: 400px;
+    height: 500px;
+    /* margin-top: 150px; */
+    border-radius: 20px;
+    background-color: white;
+
+}
+
+.pis img {
+    width: 400px;
+    height: 230px;
+}
+
+.pis h3 {
+    font-size: 33px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.pis p {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.ded {
+    margin-top: 70px;
+    color: #F58A07;
+
+}
+
+.free {
+    width: 100%;
+    height: 470px;
+    background-color: #063255;
+    display: flex;
+}
+
+.ee img {
+
+
+    margin-top: 325px;
+}
+
+.free h1 {
+    color: white;
+}
+
+.free h2 {
+    color: white;
+}
+
+.free p {
+    color: white;
+}
+
+.hggt {
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+.franck {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hggt h1 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.hggt img {
+    margin-top: 30px;
+    color: white;
+}
+
+.hgg {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hgt {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hgg p {
+    margin-top: 20px;
+}
+
+.hgt p {
+    margin-top: 20px;
+}
+
+.franck input {
+    font-size: 18px;
+    width: 280px;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.franck button {
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #F58A07;
+    color: white;
+    border: 2px solid#F58A07;
+    margin-top: 30px;
+}
+
+.eee {
+    width: 60px;
+    height: 320px;
+    border-radius: 18px;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: #F58A07;
+}
