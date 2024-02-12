@@ -1,0 +1,298 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.uis ul li a {
+    text-decoration: none;
+    margin-left: 20px;
+    color: #394149;
+}
+
+.uis ul li {
+    list-style-type: none;
+}
+
+.nav button {
+    border-radius: 31px;
+    width: 173px;
+    height: 52px;
+    border: none;
+    background-color: #F58A07 10%;
+    color: #F58A07;
+}
+
+.header {
+    width: 400px;
+    height: 618px;
+    display: flex;
+}
+
+.h1 {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.header img {
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+
+.header .h1 h1 {
+    font-size: 40px;
+}
+
+.header p {
+    width: 330px;
+    height: 59px;
+}
+
+.header button {
+    background-color: #F58A07;
+    color: white;
+    border: none;
+    border-radius: 27px;
+    width: 171px;
+    height: 54px;
+}
+
+.medium {
+    margin-top: 250px;
+    display: flex;
+    margin-left: 100px;
+}
+
+.medium .right {
+    margin-left: 400px;
+}
+
+.bad {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.boys {
+    width:  585px;
+    height: 376px;
+    margin-left: 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.boys p {
+    width: 512px;
+    height: 120px;
+}
+
+.boys img {
+    width: 652px;
+    height: 699px;
+}
+
+.sheyx {
+    margin-top: 190px;
+}
+
+.sheyxco {
+    margin-left: 100px;
+    margin-top: 400px;
+}
+
+.imgsiz {
+    margin-top: 50px;
+}
+
+.medium2 {
+    margin-left: 100px;
+}
+
+.het {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 150px;
+    gap: 100px;
+    margin-top: 150px;
+}
+
+.het p {
+    max-width: 650px;
+    font-size: 25px;
+}
+
+.het h1 {
+    font-size: 70px;
+}
+
+.awe {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.awe h1 {
+    font-size: 30px;
+}
+
+.awe p {
+    font-size: 20px;
+}
+
+.awe img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+
+.prins {
+    width: 100%;
+    height: 820px;
+    background-color: #DCEAF5;
+    margin-top: 150px;
+
+
+}
+
+.grout {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.ff {
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 80px;
+
+
+}
+
+
+.pis {
+    width: 400px;
+    height: 500px;
+    /* margin-top: 150px; */
+    border-radius: 20px;
+    background-color: white;
+
+}
+
+.pis img {
+    width: 400px;
+    height: 230px;
+}
+
+.pis h3 {
+    font-size: 33px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.pis p {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.ded {
+    margin-top: 70px;
+    color: #F58A07;
+
+}
+
+.free {
+    width: 100%;
+    height: 470px;
+    background-color: #063255;
+    display: flex;
+}
+
+.ee img {
+
+
+    margin-top: 325px;
+}
+
+.free h1 {
+    color: white;
+}
+
+.free h2 {
+    color: white;
+}
+
+.free p {
+    color: white;
+}
+
+.hggt {
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+.franck {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hggt h1 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.hggt img {
+    margin-top: 30px;
+    color: white;
+}
+
+.hgg {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hgt {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.hgg p {
+    margin-top: 20px;
+}
+
+.hgt p {
+    margin-top: 20px;
+}
+
+.franck input {
+    font-size: 18px;
+    width: 280px;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.franck button {
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #F58A07;
+    color: white;
+    border: 2px solid#F58A07;
+    margin-top: 30px;
+}
+
+.eee {
+    width: 60px;
+    height: 320px;
+    border-radius: 18px;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: #F58A07;
+}
